@@ -30,5 +30,3 @@ A student at the University of Maryland - College Park, pursuing a double degree
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/aadia1234"><img src="https://github-readme-stats.vercel.app/api?username=aadia1234&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="aadia1234's GitHub stats" /></a>
-
-<a href="http://www.github.com/aadia1234"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aadia1234&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
