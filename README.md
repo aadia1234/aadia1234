@@ -1,7 +1,7 @@
 Hi 👋 My name is Aadi Anand
 ===========================
 
-iOS App Developer
+Software Engineer
 -----------------
 
 A student at the University of Maryland - College Park, pursuing a double degree in Computer Science and Mathematics and minoring in Computational Finance. I'm interested in iOS App development and Full Stack development.
